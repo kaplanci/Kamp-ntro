@@ -1,0 +1,12 @@
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

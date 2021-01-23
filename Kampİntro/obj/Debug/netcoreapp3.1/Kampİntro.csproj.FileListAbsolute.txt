@@ -1,0 +1,13 @@
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\bin\Debug\netcoreapp3.1\Kampİntro.exe
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\bin\Debug\netcoreapp3.1\Kampİntro.deps.json
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\bin\Debug\netcoreapp3.1\Kampİntro.runtimeconfig.json
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\bin\Debug\netcoreapp3.1\Kampİntro.runtimeconfig.dev.json
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\bin\Debug\netcoreapp3.1\Kampİntro.dll
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\bin\Debug\netcoreapp3.1\Kampİntro.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\obj\Debug\netcoreapp3.1\Kampİntro.csprojAssemblyReference.cache
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\obj\Debug\netcoreapp3.1\Kampİntro.AssemblyInfoInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\obj\Debug\netcoreapp3.1\Kampİntro.AssemblyInfo.cs
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\obj\Debug\netcoreapp3.1\Kampİntro.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\obj\Debug\netcoreapp3.1\Kampİntro.dll
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\obj\Debug\netcoreapp3.1\Kampİntro.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\Kampİntro\obj\Debug\netcoreapp3.1\Kampİntro.genruntimeconfig.cache

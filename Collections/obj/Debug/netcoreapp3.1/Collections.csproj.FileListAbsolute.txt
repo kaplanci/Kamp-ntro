@@ -1,0 +1,13 @@
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
