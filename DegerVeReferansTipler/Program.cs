@@ -7,7 +7,7 @@ namespace DegerVeReferansTipler
         static void Main(string[] args)
         {
             int sayi1 = 10;
-            int sayi2 = 30;
+            int sayi2 = 38;
             sayi1 = sayi2;
             sayi2 = 65;
 
