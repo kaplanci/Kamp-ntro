@@ -1,0 +1,13 @@
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache

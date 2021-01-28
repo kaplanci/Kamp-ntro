@@ -1,0 +1,13 @@
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\Batuhan\source\repos\Kampİntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache
